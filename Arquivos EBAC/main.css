@@ -63,7 +63,7 @@ section h2,
 }
 
 .articles .articles a {
-    background-color: blue;
+    background-color: black;
     color: #fff;
     padding: 8px;
     display: inline-block;
@@ -99,7 +99,7 @@ section h2 {
 }
 
 #sports .articles article a {
-    background-color: #009432;
+    background-color: white;
 }
 
 #economy {
@@ -132,7 +132,7 @@ section .entretenimento {
 
 section .container {
     color: white;
-    background-color: gray;
+    background-color: none;
     margin-left: 200px;
     margin-bottom: 25px;
 }
@@ -143,7 +143,7 @@ article img {
 
 header .tecnologia {
     color: white;
-    background-color: gray;
+    background-color: none;
     margin-left: 200px;
     margin-top: 65px;
     margin-bottom: 25px;
@@ -151,7 +151,7 @@ header .tecnologia {
 
 body {
     color: white;
-    background-color: gray;
+    background-color: cadetblue;
     margin: 100px;
 }
 
@@ -166,7 +166,7 @@ header .tempo_tecnologia {
 }
 
 header li a {
-    color: green;
+    color: white;
     text-decoration: none;
 }
 
@@ -204,7 +204,7 @@ section .tecnologiaisso {
 }
 
 .entretenimento a {
-    background-color: blue;
+    background-color: black;
     color: #fff;
     padding: 8px;
     display: inline-block;
@@ -214,7 +214,7 @@ section .tecnologiaisso {
 }
 
 .tecnologia a {
-    background-color: blue;
+    background-color: black;
     color: #fff;
     padding: 8px;
     display: inline-block;
@@ -224,7 +224,7 @@ section .tecnologiaisso {
 }
 
 .articles a {
-    background-color: blue;
+    background-color: black;
     color: #fff;
     padding: 8px;
     display: inline-block;
